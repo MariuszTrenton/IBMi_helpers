@@ -1,10 +1,10 @@
 // ----------------------------------------------                                                  
        //                                                                                                   
        //   Mariusz Andrzejczak 02/2017                                                                     
-       //                                                                                                   
+       //   http://www.trenton.pl                                                                                                
        //   Body for GET_IFS                                                                            
        //     *** DB2 service for IFS listing                                                               
-       //     Returns objects from specified IFS folder                                                     
+       //     Returns objects from specified IFS directory                                                    
        //     along with set of basic attributes.                                                                 
        //                                                                                                   
        //    My response for RFE ID : 90136
