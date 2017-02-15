@@ -1,0 +1,3 @@
+export PWD=$(pwd)
+system -kpieb "CRTBNDRPG PGM(OSSILE/GET_IFS) SRCSTMF('$PWD/get_ifs.rpgle') TEXT('List IFS directory') "
+exec system -kpieb "RUNSQLSTM SRCSTMF('$PWD/udtf_get_ifs.sql') DFTRDBCOL(OSSILE) "
