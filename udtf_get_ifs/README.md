@@ -3,6 +3,7 @@
 # SQL UDTF list source members #
 
 A SQL user defined table function to list objects in directory.
+Community response for [RFE: 90136] https://www.ibm.com/developerworks/rfe/execute?use_case=viewRfe&CR_ID=90136
 
 ### What is this UDTF do ? ###
 
