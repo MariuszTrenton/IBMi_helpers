@@ -30,7 +30,7 @@ Object Size                        | bigint                        | Defined as 
 				   |                               |     path name stored in the symbolic link.
 		                   |	                           |	Local Socket - Always zero.
 				   |	              	           |	Operating System Native Object - 
-				   |                               |  This value is dependent on the object type.
+				   |                               |    This value is dependent on the object type.
 CCSID                              | smallint                      |  The code page derived from the CCSID used for the data in the file 
                                    |                               |   or the extended attributes of the directory. 
 				   |                               |   If the returned value of this field is 0, 
